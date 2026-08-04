@@ -3,3 +3,4 @@ application/frontend/node_modules/
 application/frontend/dist/
 *.log
 .env
+cloudformation/main-packaged.yaml
